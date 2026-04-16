@@ -6,7 +6,7 @@ AI/ML engineer. Roku, EchoPath, Kartik Agency. San Jose, CA.
 
 #### Currently Building
 
-- **[EchoPath](https://doi.org/10.6084/m9.figshare.29698050)** — haptic navigation glasses for the visually impaired. 30+ deployed users, patent pending, YC X26 interview.
+- **[EchoPath]([https://doi.org/10.6084/m9.figshare.29698050](https://www.linkedin.com/feed/update/urn:li:activity:7383303851795214337/))** — haptic navigation glasses for the visually impaired. 30+ deployed users, patent pending, YC X26 interview.
 - **[Kartik Agency](https://kartikagency.com)** — AI consulting and automation for Bay Area businesses. 20+ clients, six-figure revenue.
 - **[MetaCog-Bench](https://github.com/Kartikkapoor8/metacog-bench-)** — metacognition benchmark for frontier LLMs. Submitted to the Google DeepMind × Kaggle AGI hackathon.
 
