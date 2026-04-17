@@ -1,38 +1,36 @@
 ### Kartik Kapoor
 
-AI/ML engineer. Roku, EchoPath, Kartik Agency. San Jose, CA.
+**I build AI systems that ship to real people.**
+
+San Jose, CA
 
 ---
 
 #### Currently Building
 
-- **[EchoPath]([https://doi.org/10.6084/m9.figshare.29698050](https://www.linkedin.com/feed/update/urn:li:activity:7383303851795214337/))** — haptic navigation glasses for the visually impaired. 30+ deployed users, patent pending, YC X26 interview.
-- **[Kartik Agency](https://kartikagency.com)** — AI consulting and automation for Bay Area businesses. 20+ clients, six-figure revenue.
-- **[MetaCog-Bench](https://github.com/Kartikkapoor8/metacog-bench-)** — metacognition benchmark for frontier LLMs. Submitted to the Google DeepMind × Kaggle AGI hackathon.
+- **[Mini's World](https://minisworld.ai)** — agentic AI platform deploying full-stack AI teams to run entire business operations. Live and in testing.
+- **[EchoPath](https://www.linkedin.com/feed/update/urn:li:activity:7383303851795214337/)** — haptic navigation glasses for the visually impaired. 30+ deployed users, patent pending, YC X26 interview.
 
-#### Recent Work
+#### Past Work
 
 - **Lead SWE Intern @ Roku** — led 4 engineers; built an AI recommendation engine on BrightScript / SceneGraph. Work presented to 60+ Roku engineers.
+- **Founder @ [Kartik Agency](https://kartikagency.com)** — AI consulting and automation for Bay Area businesses. 20+ clients, six-figure revenue.
 - **AI/ML Intern @ San Jose Works** — facial-recognition CNNs and DQN reinforcement-learning agents.
-- **S4CA** — 3× First Place.
-- **USACO** — Silver Division.
 
-#### Tech Stack
+#### Stack
 
-`Python` · `PyTorch` · `TensorFlow` · `C#` · `C++` · `Unity` · `BrightScript` · `SceneGraph` · `Kaggle Benchmarks SDK` · `OpenCV` · `CUDA` · `Git`
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PyTorch` · `TensorFlow` · `BrightScript` · `AWS` · `Supabase`
 
 #### Selected Repos
 
 | Repo | What |
 |---|---|
-| [metacog-bench](https://github.com/Kartikkapoor8/metacog-bench-) | Metacognition benchmark for LLMs — confidence calibration, answerability, error self-detection. DeepMind × Kaggle AGI hackathon. |
-| [AIChess](https://github.com/Kartikkapoor8/AIChess) | C# / Unity chess engine. Minimax + alpha-beta pruning. Two AI agents play each other. Shogi variant training. |
+| [metacog-bench](https://github.com/Kartikkapoor8/metacog-bench-) | Metacognition benchmark for LLMs — confidence calibration, answerability, error self-detection. Google DeepMind × Kaggle AGI hackathon. |
+| [AIChess](https://github.com/Kartikkapoor8/AIChess) | C# / Unity chess engine. Minimax + alpha-beta pruning. 2nd place at LA Hacks 2024. |
 | [Smartchef](https://github.com/Kartikkapoor8/Smartchef) | BrightScript / SceneGraph Roku TV app built during my Roku internship. |
 
-#### Education
+---
 
-**Rochester Institute of Technology** — B.S. Artificial Intelligence, starting Fall 2026.
+**Incoming RIT AI. Open to summer 2026 internships.**
 
-#### Links
-
-[kartikagency.com](https://kartikagency.com) · [LinkedIn](https://www.linkedin.com/in/kartik-kapoor8/) · [EchoPath paper](https://doi.org/10.6084/m9.figshare.29698050)
+[minisworld.ai](https://minisworld.ai) · [LinkedIn](https://linkedin.com/in/kartikgauravkapoor) · [EchoPath paper](https://doi.org/10.6084/m9.figshare.29698050)
