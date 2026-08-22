@@ -1,36 +1,44 @@
 ### Kartik Kapoor
 
-**I build AI systems that ship to real people.**
+**I build haptic navigation glasses for blind and low vision people.**
 
-San Jose, CA
+CS at UC Santa Cruz. Founder of Kartik Agency.
 
 ---
 
-#### Currently Building
+#### Currently building
 
-- **[Mini's World](https://minisworld.ai)** — agentic AI platform deploying full-stack AI teams to run entire business operations. Live and in testing.
-- **[EchoPath](https://www.linkedin.com/feed/update/urn:li:activity:7383303851795214337/)** — haptic navigation glasses for the visually impaired. 30+ deployed users, patent pending, YC X26 interview.
+- **[EchoPath](https://echopath.kartikagency.com)**, haptic navigation glasses for blind and low vision people. 8 people wear them every day. On-device computer vision, under 300ms from camera to skin, no cloud.
+- **[Kartik Agency](https://kartikagency.com)**, AI consulting and automation for Bay Area businesses. Bootstrapped since 2023 to 20+ clients.
 
-#### Past Work
+#### What I work on
 
-- **Lead SWE Intern @ Roku** — led 4 engineers; built an AI recommendation engine on BrightScript / SceneGraph. Work presented to 60+ Roku engineers.
-- **Founder @ [Kartik Agency](https://kartikagency.com)** — AI consulting and automation for Bay Area businesses. 20+ clients, six-figure revenue.
-- **AI/ML Intern @ San Jose Works** — facial-recognition CNNs and DQN reinforcement-learning agents.
+- On-device computer vision and embedded systems: ESP32, BLE, real-time object detection.
+- RL evaluation environments and model benchmarking. Two are public on [Prime Intellect's hub](https://app.primeintellect.ai/dashboard/environments/kartikkapoor).
+- Full-stack product: Next.js, React, TypeScript, Python, FastAPI, Supabase.
+
+#### Past work
+
+- **SWE Intern @ Roku**, chosen mid-program to lead the 4-intern team. Work presented to 60+ Roku engineers.
+- **SWE Intern @ Deep24** (YC W24).
+- **AI/ML Intern @ San Jose Works**, facial-recognition CNNs and DQN reinforcement-learning agents.
+
+#### Selected repos
+
+| Repo | What it is |
+|---|---|
+| [koyal-takehome](https://github.com/Kartikkapoor8/koyal-takehome) | One photograph turned into a 3D world you can move a camera through, with two image-to-3D models measured against how far the camera travels before the reconstruction breaks. |
+| [metacog-bench](https://github.com/Kartikkapoor8/metacog-bench) | Benchmark for whether a model knows when it is wrong: confidence calibration, confabulation detection, error self-monitoring. Finalist, Google DeepMind x Kaggle 2026. |
+| [meeting-intent-eval](https://github.com/Kartikkapoor8/meeting-intent-eval) | RL environment testing whether a model can pull the real action items out of a messy meeting transcript. |
+| [analog-instrument-eval](https://github.com/Kartikkapoor8/analog-instrument-eval) | RL environment for reading analog clocks, gauges, and dials from photos, scored on a deterministic rubric. |
+| [Smartchef](https://github.com/Kartikkapoor8/Smartchef) | Roku TV channel in BrightScript and SceneGraph, built during my Roku internship. |
 
 #### Stack
 
-`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PyTorch` · `TensorFlow` · `BrightScript` · `AWS` · `Supabase`
-
-#### Selected Repos
-
-| Repo | What |
-|---|---|
-| [metacog-bench](https://github.com/Kartikkapoor8/metacog-bench-) | Metacognition benchmark for LLMs — confidence calibration, answerability, error self-detection. Google DeepMind × Kaggle AGI hackathon. |
-| [AIChess](https://github.com/Kartikkapoor8/AIChess) | C# / Unity chess engine. Minimax + alpha-beta pruning. 2nd place at LA Hacks 2024. |
-| [Smartchef](https://github.com/Kartikkapoor8/Smartchef) | BrightScript / SceneGraph Roku TV app built during my Roku internship. |
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Supabase` · `BrightScript` · `ESP32` · `BLE`
 
 ---
 
-**Incoming RIT AI. Open to summer 2026 internships.**
+Finalist, Google DeepMind x Kaggle MetaCog-Bench 2026. 3x S4CA Engineering Expo 1st place. USACO Silver.
 
-[minisworld.ai](https://minisworld.ai) · [LinkedIn](https://linkedin.com/in/kartikgauravkapoor) · [EchoPath paper](https://doi.org/10.6084/m9.figshare.29698050)
+[echopath.kartikagency.com](https://echopath.kartikagency.com) · [kartikagency.com](https://kartikagency.com) · [LinkedIn](https://linkedin.com/in/kartikgauravkapoor) · kartikgauravkapoor@gmail.com
