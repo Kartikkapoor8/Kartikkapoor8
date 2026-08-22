@@ -8,7 +8,7 @@ CS at UC Santa Cruz. Founder of Kartik Agency.
 
 #### Currently building
 
-- **[EchoPath](https://echopath.kartikagency.com)**, haptic navigation glasses for blind and low vision people. 8 people wear them every day. On-device computer vision, under 300ms from camera to skin, no cloud.
+- **[EchoPath](https://echopath.kartikagency.com)**, haptic navigation glasses for blind and low vision people. 8 people wear them every day. On-device computer vision, under 300ms from camera to skin, no cloud. Patent pending, and interviewed with YC (X26).
 - **[Kartik Agency](https://kartikagency.com)**, AI consulting and automation for Bay Area businesses. Bootstrapped since 2023 to 20+ clients.
 
 #### What I work on
@@ -27,7 +27,7 @@ CS at UC Santa Cruz. Founder of Kartik Agency.
 
 | Repo | What it is |
 |---|---|
-| [koyal-takehome](https://github.com/Kartikkapoor8/koyal-takehome) | One photograph turned into a 3D world you can move a camera through, with two image-to-3D models measured against how far the camera travels before the reconstruction breaks. |
+| [photo-to-3d-world](https://github.com/Kartikkapoor8/photo-to-3d-world) | One photograph turned into a 3D world you can move a camera through, with two image-to-3D models measured against how far the camera travels before the reconstruction breaks. |
 | [metacog-bench](https://github.com/Kartikkapoor8/metacog-bench) | Benchmark for whether a model knows when it is wrong: confidence calibration, confabulation detection, error self-monitoring. Finalist, Google DeepMind x Kaggle 2026. |
 | [meeting-intent-eval](https://github.com/Kartikkapoor8/meeting-intent-eval) | RL environment testing whether a model can pull the real action items out of a messy meeting transcript. |
 | [analog-instrument-eval](https://github.com/Kartikkapoor8/analog-instrument-eval) | RL environment for reading analog clocks, gauges, and dials from photos, scored on a deterministic rubric. |
